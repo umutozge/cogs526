@@ -1,4 +1,4 @@
-# COGS 526 -- Meaning and Logic (METU CogSci) -- Fall 2025
+# COGS 526 - Meaning and Logic (METU CogSci) - Fall 2025
 
 
 [Umut Özge](mailto:umozge@metu.edu.tr), [Anıl Öğdül](mailto:aogdul@gmail.com) (TA)
