@@ -36,10 +36,10 @@ The course is open, without any prerequisites, to any graduate student, with Cog
 
 ## Material
 
-* Lepore, E., & Cumming, S. (2009). Meaning and argument: An introduction to logic through language. _2nd Edition_, John Wiley & Sons.
-* Lycan, W. G. (2018). Philosophy of language: A contemporary introduction. Routledge.
-* McGinn, C. (2015). Philosophy of language: The classics explained. MIT Press.
-* Everything that is discussed in the class.
+* Lepore, E., & Cumming, S. (2009). _Meaning and argument: An introduction to logic through language_. _2nd Edition_, John Wiley & Sons.
+* Lycan, W. G. (2018). _Philosophy of language: A contemporary introduction_. Routledge.
+* McGinn, C. (2015). _Philosophy of language: The classics explained_. MIT Press.
+* Everything that is discussed in class sessions.
 
 ## Requirements
 
