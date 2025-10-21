@@ -16,6 +16,8 @@ Weekly schedule
 :--- |:-------|:----|
 |1   | [:calendar: 1/10](weeks/w01.md)| |
 |2   | [:calendar: 8/10](weeks/w02.md)| |
+|3   |canceled [:calendar: 15/10](weeks/w03.md)| |
+|4   |[:calendar: 22/10](weeks/w04.md)| |
 
 
 </details>
