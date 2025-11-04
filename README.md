@@ -19,7 +19,7 @@ Weekly schedule
 |3   |canceled [:calendar: 15/10](weeks/w03.md)| |
 |4   |[:calendar: 22/10](weeks/w04.md)| |
 |5   |holiday [:calendar: 29/10](weeks/w05.md)| |
-|6   |[:calendar: 22/10](weeks/w06.md)| |
+|6   |[:calendar: 5/11](weeks/w06.md)| |
 
 
 </details>
