@@ -20,6 +20,9 @@ Weekly schedule
 |4   |[:calendar: 22/10](weeks/w04.md)| |
 |5   |holiday [:calendar: 29/10](weeks/w05.md)| |
 |6   |[:calendar: 5/11](weeks/w06.md)| |
+|7   |[:calendar: 12/11](weeks/w07.md)| |
+|8   |[:calendar: 19/11](weeks/w08.md)| |
+|8   |[:calendar: 26/11](weeks/w09.md)| |
 
 
 </details>
